@@ -1,0 +1,8 @@
+.checkbox-vertical{
+    flex-direction: column;
+    & > label{
+        &:first-child{
+            margin-left: 8px;
+        }
+    }
+}

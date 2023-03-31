@@ -1,0 +1,36 @@
+
+$border-color: #e0dede;
+
+.header {
+  text-align: center;
+  color: #fff;
+  height: 64px;
+  padding-inline: 50px;
+  line-height: 64px;
+  background-color: white;
+  border-bottom: 1px solid $border-color;
+}
+
+.content {
+  text-align: center;
+  min-height: 120px;
+  line-height: 120px;
+  color: #fff;
+  overflow-y: scroll;
+  padding: 15px;
+}
+
+.sider {
+  text-align: center;
+  line-height: 120px;
+  color: #fff;
+  background-color: white !important;
+  width: 300px;
+  padding: 15px;
+  border-right: 1px solid $border-color;
+}
+
+.layout {
+  height: 100vh;
+  overflow: hidden;
+}

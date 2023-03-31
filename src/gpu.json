@@ -1,0 +1,212 @@
+[
+    {
+      "id" : 1,
+      "name": "NVIDIA GeForce RTX 3080",
+      "manufacturer": "NVIDIA",
+      "memory_size": 10,
+      "price": 699.99,
+      "release_date": "2020-09-17",
+      "rating": 0.95,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6471/6471960_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 2,
+      "name": "AMD Radeon RX 6800 XT",
+      "manufacturer": "AMD",
+      "memory_size": 16,
+      "price": 649.99,
+      "release_date": "2020-11-18",
+      "rating": 0.92,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447182_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 3,
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "manufacturer": "NVIDIA",
+      "memory_size": 8,
+      "price": 399.99,
+      "release_date": "2020-12-02",
+      "rating": 0.89,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6468/6468931_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 4,
+      "name": "AMD Radeon RX 6700 XT",
+      "manufacturer": "AMD",
+      "memory_size": 12,
+      "price": 479.99,
+      "release_date": "2021-03-18",
+      "rating": 0.91,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447182_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 5,
+      "name": "NVIDIA GeForce RTX 3090",
+      "manufacturer": "NVIDIA",
+      "memory_size": 24,
+      "price": 1499.99,
+      "release_date": "2020-09-24",
+      "rating": 0.97,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6521/6521431cv11d.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 6,
+      "name": "AMD Radeon RX 6900 XT",
+      "manufacturer": "AMD",
+      "memory_size": 16,
+      "price": 999.99,
+      "release_date": "2020-12-08",
+      "rating": 0.91,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6476/6476228_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 7,
+      "name": "NVIDIA GeForce RTX 3070",
+      "manufacturer": "NVIDIA",
+      "memory_size": 8,
+      "price": 499.99,
+      "release_date": "2020-10-29",
+      "rating": 0.85,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6471/6471955_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 8,
+      "name": "AMD Radeon RX 6600 XT",
+      "manufacturer": "AMD",
+      "memory_size": 8,
+      "price": 379.99,
+      "release_date": "2021-08-11",
+      "rating": 0.69,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6476/6476228_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 9,
+      "name": "NVIDIA GeForce RTX 3080 Ti",
+      "manufacturer": "NVIDIA",
+      "memory_size": 12,
+      "price": 1199.99,
+      "release_date": "2021-06-03",
+      "rating": 0.96,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501085_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 10,
+      "name": "AMD Radeon RX 6600 XT",
+      "manufacturer": "AMD",
+      "memory_size": 8,
+      "price": 379.99,
+      "release_date": "2021-08-11",
+      "rating": 0.88,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6476/6476228_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 11,
+      "name": "NVIDIA GeForce RTX 3070 Ti",
+      "manufacturer": "NVIDIA",
+      "memory_size": 8,
+      "price": 599.99,
+      "release_date": "2021-08-16",
+      "rating": 0.93,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6465/6465789_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 12,
+      "name": "AMD Radeon RX 6700",
+      "manufacturer": "AMD",
+      "memory_size": 6,
+      "price": 379.99,
+      "release_date": "2021-03-18",
+      "rating": 0.86,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6456/6456926_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 13,
+      "name": "NVIDIA GeForce GTX 1660",
+      "manufacturer": "NVIDIA",
+      "memory_size": 6,
+      "price": 229.99,
+      "release_date": "2019-03-14",
+      "rating": 0.81,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518174cv1d.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 14,
+      "name": "AMD Radeon RX 5500 XT",
+      "manufacturer": "AMD",
+      "memory_size": 8,
+      "price": 229.99,
+      "release_date": "2019-12-12",
+      "rating": 0.84,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6497/6497196_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 15,
+      "name": "NVIDIA GeForce GTX 1050 Ti",
+      "manufacturer": "NVIDIA",
+      "memory_size": 4,
+      "price": 149.99,
+      "release_date": "2016-10-25",
+      "rating": 0.73,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502683_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 16,
+      "name": "AMD Radeon RX 580",
+      "manufacturer": "AMD",
+      "memory_size": 8,
+      "price": 329.99,
+      "release_date": "2017-04-18",
+      "rating": 0.77,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6136/6136515_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 17,
+      "name": "NVIDIA GeForce GT 1030",
+      "manufacturer": "NVIDIA",
+      "memory_size": 2,
+      "price": 99.99,
+      "release_date": "2017-05-17",
+      "rating": 0.69,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6468/6468926_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 18,
+      "name": "AMD Radeon RX 570",
+      "manufacturer": "AMD",
+      "memory_size": 8,
+      "price": 279.99,
+      "release_date": "2017-04-18",
+      "rating": 0.75,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6136/6136515_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 19,
+      "name": "NVIDIA GeForce GTX 1650",
+      "manufacturer": "NVIDIA",
+      "memory_size": 4,
+      "price": 149.99,
+      "release_date": "2019-04-23",
+      "rating": 0.79,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502683_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 20,
+      "name": "AMD Radeon RX 560",
+      "manufacturer": "AMD",
+      "memory_size": 4,
+      "price": 159.99,
+      "release_date": "2017-05-16",
+      "rating": 0.98,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6468/6468931_sd.jpg;maxHeight=200;maxWidth=300"
+    },
+    {
+      "id" : 21,
+      "name": "AMD Radeon RX 6600",
+      "manufacturer": "AMD",
+      "memory_size": 6,
+      "price": 399.99,
+      "release_date": "2020-01-21",
+      "rating": 0.82,
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6476/6476228_sd.jpg;maxHeight=200;maxWidth=300"
+    }
+]

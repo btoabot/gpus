@@ -1,1 +1,1 @@
-# gpus
+https://btoabot.github.io/gpus/

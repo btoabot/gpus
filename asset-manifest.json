@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gpus/static/css/main.1b094ccf.css",
+    "main.js": "/gpus/static/js/main.8e23c273.js",
+    "index.html": "/gpus/index.html",
+    "main.1b094ccf.css.map": "/gpus/static/css/main.1b094ccf.css.map",
+    "main.8e23c273.js.map": "/gpus/static/js/main.8e23c273.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b094ccf.css",
+    "static/js/main.8e23c273.js"
+  ]
+}
